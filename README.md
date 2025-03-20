@@ -1,1 +1,1 @@
-Realizado via MySQL Workbench para desafio de projeto conceitaul de banco de dados.
+Realizado via MySQL Workbench para desafio de projeto conceitual de banco de dados.
